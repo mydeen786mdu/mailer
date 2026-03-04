@@ -1,2 +1,2 @@
 # mailer
-create a new mailer
+create a new mailer updated version
