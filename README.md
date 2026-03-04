@@ -1,2 +1,2 @@
 # mailer
-create a new mailer updated version
+Checker version of the mailer git repository    
